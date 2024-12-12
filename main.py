@@ -34,7 +34,7 @@ def create_pdf(name, firstname, contact, appointment_date):
     return buffer
 
 # Titre et bienvenue
-st.title("🤖 Bienvenue dans notre Chatbot Entreprise")
+st.title("🤖 Agence Nationale de Commercialisation Immobilière (ANCI)")
 st.write("Salut ! Je suis votre assistant personnel de prise de rendez-vous. 🎉")
 st.write("Pas d’inquiétude, je suis un chatbot sympa... et je promets de ne pas trop blaguer ! 😄")
 
